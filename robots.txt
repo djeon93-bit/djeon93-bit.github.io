@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://djeon93-bit.github.io/sitemap.xml
+Sitemap: https://jeon-donggyu.github.io/sitemap.xml
